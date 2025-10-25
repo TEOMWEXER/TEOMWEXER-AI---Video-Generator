@@ -1,0 +1,5 @@
+{
+  "name": "TEOMWEXER AI - Video-Generator",
+  "description": "A next-generation AI-powered video generation and editing platform named 'TEOMWEXER AI'. This tool combines text-to-video generation, cinematic storytelling, and intelligent editing using Google Veo and Gemini models. It supports both image and video inputs, real-time prompt enhancement via a chatbot, and AI-assisted creative tools within a sleek, futuristic UI.",
+  "requestFramePermissions": []
+}
